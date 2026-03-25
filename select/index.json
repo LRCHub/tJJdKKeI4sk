@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Bring me the morning",
+  "base_artist": "RADWIMPS",
+  "createdAt": "2026-03-25T06:09:12.759305Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bring me the morning",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/01_Bring_me_the_morning_RADWIMPS.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bring me the morning",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_01_Bring_me_the_morning_RADWIMPS.txt"
+    }
+  ]
+}
